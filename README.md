@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Shardul Mahajan..!
+🎨 Frontend Developer | 💻 UI/UX Enthusiast | 🌐 Web Explorer
+
+Welcome to my GitHub! I’m passionate about creating beautiful, user-friendly interfaces and bringing designs to life with clean, efficient code.
+
+🚀 Skills & Tools:
+Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: React, Tailwind CSS, Bootstrap
+Tools & Platforms: Git, GitHub, VS Code, Webpack
+
 
 <!--
 **Shardul41/Shardul41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
