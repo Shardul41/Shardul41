@@ -1,32 +1,86 @@
 <h1 align="center">Hi 👋, I'm Shardul Mahajan</h1>
-<h3 align="center">🎨 Frontend Developer | 💻 UI/UX Enthusiast | 🌐 Web Explorer.</h3>
+<h3 align="center">🎯 Full Stack Developer | 🚀 Backend Intern @ CodeTikki | 💻 UI/UX Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shardul41&label=Profile%20views&color=0e75b6&style=flat" alt="shardul41" /> </p>
-
-- 📫 How to reach me **shardul.mahajan777@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shardulmahajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shardulmahajan/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:shardul.mahajan777@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/shardulmahajan/">💼 LinkedIn</a> •
+  <a href="https://github.com/Shardul41">🐱 GitHub</a> •
+  <a href="https://myportfoleoo.netlify.app/">🌐 Portfolio</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shardul41&show_icons=true&locale=en&layout=compact" alt="shardul41" /></p>
+### 🧠 About Me
+- 👨‍💻 I'm a passionate **Full Stack Developer** (MERN) with a strong focus on building performant and user-friendly web applications.
+- 🌱 Currently learning: **Docker, AWS basics**, and enhancing my **backend development** skills at [CodeTikki](https://codetikki.com/).
+- 🎯 Career Goal: To develop scalable software solutions that improve user experience and solve real-world problems.
+- 📫 Reach me at: **shardul.mahajan777@gmail.com**
 
+---
 
-<!--
-**Shardul41/Shardul41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**  
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & APIs:**  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Currently Learning:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-Basics-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+#### 🌍 [YatriReview](https://shorturl.at/cYhnD)  
+*Node.js | Express.js | MongoDB | EJS | REST API | Bootstrap*  
+🔹 Platform for users to post reviews of accommodations and for hosts to manage listings using a clean MVC structure.
+
+#### 👨‍💼 [Employee Management System](https://em-s.netlify.app/)  
+*ReactJS | Tailwind CSS*  
+🔹 Full-featured system to streamline employee data management for HR teams.
+
+#### 🏦 Loan Eligibility Prediction  
+*Python | Scikit-learn | Pandas | Seaborn | Matplotlib*  
+🔹 ML model to predict loan approval chances based on customer data.
+
+---
+
+### 🧾 Certifications
+- ✅ Web Development – Internshala  
+- ✅ JavaScript Programming – Open Weaver  
+- ✅ Internet & Web Fundamentals – Udemy  
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shardul41&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+> ⚡ "Keep building, keep learning – software development is a journey, not a destination."
+
